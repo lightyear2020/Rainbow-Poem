@@ -4,8 +4,11 @@ purple
 pink
 red
 yellow
+Indigo
 Unicorn
 Blue
 Green
 Orange
+Vibgyor
 These are the colors of the rainbow and the unicorn.
+Ash brown
